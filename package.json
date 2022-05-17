@@ -1,0 +1,22 @@
+{
+  "name": "garth",
+  "version": "1.0.0",
+  "description": "MultiFunctional Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEEM-0001/Garth.git"
+  },
+  "author": "DEEM#0001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DEEM-0001/Garth/issues"
+  },
+  "homepage": "https://github.com/DEEM-0001/Garth#readme",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
